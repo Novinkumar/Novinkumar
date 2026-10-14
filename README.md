@@ -48,13 +48,17 @@ Status: Still searching for the One Piece (and clean code)
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Novinkumar&border_radius=15&hide_border=true&background=0D1117&ring=D7263D&fire=FFD60A&currStreakLabel=FFD60A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="60%" alt="GitHub contribution streak"/>
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Novinkumar&hide_border=true&area=true&bg_color=0D1117&color=FFD60A&line=D7263D&point=FFFFFF&title_color=FFD60A" width="95%" alt="GitHub activity graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Novinkumar&bg_color=0d1117&color=ffffff&line=00c853&point=ffcc00&area=true&hide_border=true" width="95%" alt="GitHub activity graph"/>
+
 </div>
 
 ## 🏆 Treasure Collected (Trophies)
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Novinkumar&theme=onedark&no-frame=true&row=1&column=7&margin-w=10" width="100%" alt="GitHub profile trophies"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Novinkumar&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub profile trophies"/>
+
 </div>
 
 ## 🐍 The Legendary Sea Snake (Contribution Snake)
