@@ -19,44 +19,50 @@
 
 <div align="center">
 
-## 🏴‍☠️ WANTED: THE KING OF THE DEVS
-
-<img src="https://img.shields.io/badge/NAME-NOVIN%20KUMAR-D7263D?style=for-the-badge&labelColor=0D1117" alt="Name: Novin Kumar"/>
-<img src="https://img.shields.io/badge/ROLE-DEV%20IN%20TRAINING-FFD60A?style=for-the-badge&labelColor=0D1117" alt="Role: Developer in training"/>
-<img src="https://img.shields.io/badge/CREW-ONE%20PIECE-167DAB?style=for-the-badge&labelColor=0D1117" alt="Crew: One Piece"/>
+## 👋 About Me
 
 </div>
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
-      <strong>🎯 THE DREAM</strong><br/>
-      Become the <strong>King of the Devs</strong>
-    </td>
-    <td align="center" width="33%">
-      <strong>⚓ THE MOTTO</strong><br/>
-      “I'm gonna be the dev of commits!”
-    </td>
-    <td align="center" width="33%">
-      <strong>🍖 THE FUEL</strong><br/>
-      One Piece and Luffy-level determination
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <strong>🧭 CURRENT QUEST</strong><br/>
-      Learning, building projects, squashing bugs, and hunting for clean code — the One Piece of software development.
-    </td>
+    <td width="60%" valign="top">
+
+### 🚀 What I Do
+I'm a developer focused on building clean, functional web applications. I enjoy solving problems, learning new technologies, and continuously improving my craft.
+
+**🎯 Currently:** Sharpening my Full Stack skills  
+**🛠️ Building:** Side projects & contributing to open source  
+**📖 Learning:** Advanced React patterns & system design  
+**💬 Open to:** Collaboration, freelance work, and tech discussions  
+
+</td>
+    <td width="40%" valign="top">
+
+### ⚡ Quick Facts
+
+| | |
+|---|---|
+| 🌍 **Based in** | India |
+| 💼 **Role** | Software Developer |
+| 🎮 **Downtime** | One Piece, gaming |
+| ☕ **Fuel** | Coffee & consistency |
+
+</td>
   </tr>
 </table>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DEBUGGING-Luffy%20mode%20activated-D7263D?style=flat-square&logo=github&logoColor=white" alt="Debugging: Luffy mode activated"/>
-<img src="https://img.shields.io/badge/STATUS-SETTING%20SAIL-FFD60A?style=flat-square&labelColor=0D1117" alt="Status: Setting sail"/>
+<img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-orange?style=flat-square"/>
 
 </div>
+---
 
+<div align="center">
+<sub>💭 "It's your will that shapes your fate — no matter how small or weak you are." — One Piece</sub>
+</div>
 ## ⚓ GitHub Stats — Bounty Board
 
 <div align="center">
@@ -65,14 +71,13 @@
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Novinkumar&border_radius=15&hide_border=true&background=0D1117&ring=D7263D&fire=FFD60A&currStreakLabel=FFD60A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="60%" alt="GitHub contribution streak"/>
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Novinkumar&hide_border=true&area=true&bg_color=0D1117&color=FFD60A&line=D7263D&point=FFFFFF&title_color=FFD60A" width="95%" alt="GitHub activity graph"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Novinkumar&theme=react-dark" width="95%"/>
 </div>
 
 ## 🏆 Treasure Collected (Trophies)
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Novinkumar&theme=onedark&no-frame=true&row=1&column=7&margin-w=10" width="100%" alt="GitHub profile trophies"/>
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=Novinkumar&theme=onedark&no-frame=true&row=1&column=7" width="100%" alt="GitHub profile trophies"/>
 
 ## 🐍 The Legendary Sea Snake (Contribution Snake)
 
