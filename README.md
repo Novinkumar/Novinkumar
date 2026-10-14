@@ -17,28 +17,45 @@
 
 ---
 
+<div align="center">
+
+## 🏴‍☠️ WANTED: THE KING OF THE DEVS
+
+<img src="https://img.shields.io/badge/NAME-NOVIN%20KUMAR-D7263D?style=for-the-badge&labelColor=0D1117" alt="Name: Novin Kumar"/>
+<img src="https://img.shields.io/badge/ROLE-DEV%20IN%20TRAINING-FFD60A?style=for-the-badge&labelColor=0D1117" alt="Role: Developer in training"/>
+<img src="https://img.shields.io/badge/CREW-ONE%20PIECE-167DAB?style=for-the-badge&labelColor=0D1117" alt="Crew: One Piece"/>
+
+</div>
+
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏴‍☠️ Crew Profile
-
-```yaml
-Name: Novin Kumar
-Role: Engineering Student / Developer
-Dream: Become the "King of the Devs"
-Favorite Anime: One Piece
-Motto: "I'm gonna be the dev of commits!"
-Fun Fact: I debug better after watching Luffy punch something
-Status: Still searching for the One Piece (and clean code)
-```
-
-</td>
-<td width="50%" valign="top" align="center">
-<img src="https://media.tenor.com/vWcVQunoIeAAAAAi/one-piece-luffy.gif" width="100%" alt="Luffy from One Piece"/>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="33%">
+      <strong>🎯 THE DREAM</strong><br/>
+      Become the <strong>King of the Devs</strong>
+    </td>
+    <td align="center" width="33%">
+      <strong>⚓ THE MOTTO</strong><br/>
+      “I'm gonna be the dev of commits!”
+    </td>
+    <td align="center" width="33%">
+      <strong>🍖 THE FUEL</strong><br/>
+      One Piece and Luffy-level determination
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <strong>🧭 CURRENT QUEST</strong><br/>
+      Learning, building projects, squashing bugs, and hunting for clean code — the One Piece of software development.
+    </td>
+  </tr>
 </table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DEBUGGING-Luffy%20mode%20activated-D7263D?style=flat-square&logo=github&logoColor=white" alt="Debugging: Luffy mode activated"/>
+<img src="https://img.shields.io/badge/STATUS-SETTING%20SAIL-FFD60A?style=flat-square&labelColor=0D1117" alt="Status: Setting sail"/>
+
+</div>
 
 ## ⚓ GitHub Stats — Bounty Board
 
@@ -48,17 +65,13 @@ Status: Still searching for the One Piece (and clean code)
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Novinkumar&border_radius=15&hide_border=true&background=0D1117&ring=D7263D&fire=FFD60A&currStreakLabel=FFD60A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="60%" alt="GitHub contribution streak"/>
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Novinkumar&bg_color=0d1117&color=ffffff&line=00c853&point=ffcc00&area=true&hide_border=true" width="95%" alt="GitHub activity graph"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Novinkumar&hide_border=true&area=true&bg_color=0D1117&color=FFD60A&line=D7263D&point=FFFFFF&title_color=FFD60A" width="95%" alt="GitHub activity graph"/>
 </div>
 
 ## 🏆 Treasure Collected (Trophies)
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Novinkumar&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub profile trophies"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Novinkumar&theme=onedark&no-frame=true&row=1&column=7&margin-w=10" width="100%" alt="GitHub profile trophies"/>
 </div>
 
 ## 🐍 The Legendary Sea Snake (Contribution Snake)
