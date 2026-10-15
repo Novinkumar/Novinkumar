@@ -1,19 +1,37 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D7263D,100:FFD60A&height=250&section=header&text=Yo!%20I'm%20Novin%20Kumar&fontSize=45&fontColor=0D1117&animation=fadeIn&fontAlignY=35&desc=Set%20Sail%20for%20the%20Grand%20Line%20of%20Code%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F&descAlignY=55&descAlign=50" width="100%" alt="One Piece themed Novin Kumar banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D7263D,100:FFD60A&height=250&section=header&text=Yo!%20I'm%20Novin%20Kumar&fontSize=45&fontColor=0D1117&animation=fadeIn&fontAlignY=35&desc=Set%20Sail%20for%20the%20Grand%20Line%20of%20Code%20%F0%9F%8F%B4%E2%98%A0%EF%B8%8F&descAlignY=55&descAlign=50" width="100%" alt="One Piece themed Novin Kumar banner"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FFD60A&center=true&vCenter=true&width=650&height=60&lines=I'm+Gonna+Be+King+of+the+Devs!+%E2%9A%93;One+Piece+Otaku+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;Developer+%F0%9F%92%BB;Chasing+Dreams+like+Luffy+%F0%9F%8C%8A" alt="Animated developer introduction"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FFD60A&center=true&vCenter=true&width=650&height=60&lines=I'm+Gonna+Be+King+of+the+Devs!+%E2%9A%93;One+Piece+Otaku+%F0%9F%8F%B4%E2%98%A0%EF%B8%8F;Developer+%F0%9F%92%BB;Chasing+Dreams+like+Luffy+%F0%9F%8C%8A" alt="Animated developer introduction"/>
 
-<img src="https://komarev.com/ghpvc/?username=Novinkumar&label=Bounty%20Collected%20(Views)&color=D7263D&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Novinkumar?label=Crew%20Members&style=for-the-badge&color=FFD60A&logo=github" alt="GitHub followers"/>
+  <br/>
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://komarev.com/ghpvc/?username=Novinkumar&label=BOUNTY%20COLLECTED&color=D7263D&style=for-the-badge" alt="Profile views"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/followers/Novinkumar?label=CREW%20MEMBERS&style=for-the-badge&color=FFD60A&logo=github" alt="GitHub followers"/>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <a href="https://instagram.com/novin_geijutsuka_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/novin-kumar-a31195381">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.com/users/1300456589316325447">
+  <img src="https://img.shields.io/badge/Discord-novinkumar22-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord profile"/>
+</a>
 
 </div>
 
-<p align="center">
-  <a href="https://instagram.com/novin_geijutsuka_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/novin-kumar-a31195381"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Discord-novinkumar22-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord username"/>
-</p>
 
 ---
 
