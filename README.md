@@ -71,10 +71,35 @@ I'm a developer focused on building clean, functional web applications. I enjoy 
 | 💻 **Role** | Developer |
 | 🎮 **Downtime** | One Piece and gaming |
 | ☕ **Fuel** | Coffee and consistency |
-
-    </td>
   </tr>
 </table>
+
+---
+
+---
+
+<!-- ONE PIECE PORTFOLIO -->
+<h2 align="center">☠️ My Grand Line Portfolio</h2>
+
+<div align="center">
+
+  <p>
+    <i>Every great developer begins with a dream. Mine sets sail on the Grand Line!</i>
+  </p>
+
+  <a href="https://novinkumar.github.io/portfolio1/">
+    <img src="https://img.shields.io/badge/☠️_EXPLORE_MY_PORTFOLIO-Set_Sail_for_the_Grand_Line-D7263D?style=for-the-badge&labelColor=0D1117" alt="Explore my One Piece Portfolio"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/THEME-ONE_PIECE-FFD60A?style=flat-square&labelColor=0D1117" alt="One Piece theme"/>
+
+  <br/><br/>
+
+  <i>"I'm gonna be King of the Devs!"</i>
+
+</div>
 
 ---
 
