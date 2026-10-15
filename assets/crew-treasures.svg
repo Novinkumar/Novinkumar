@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" role="img" aria-labelledby="title desc">
+<title id="title">Treasure Collected — GitHub Stats</title><desc id="desc">An animated pirate treasure board with gold achievement cards and sparkling coins.</desc>
+<defs>
+ <linearGradient id="sea" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071827"/><stop offset=".55" stop-color="#102e40"/><stop offset="1" stop-color="#06121d"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffe7a0"/><stop offset=".45" stop-color="#dba63e"/><stop offset="1" stop-color="#8b5417"/></linearGradient>
+ <linearGradient id="wood" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#6a351b"/><stop offset="1" stop-color="#29140f"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grain" width="60" height="24" patternUnits="userSpaceOnUse"><path d="M0 8H60 M12 17H48" stroke="#f4c76b" stroke-opacity=".08" stroke-width="2"/></pattern>
+ <style>
+ .head{font:900 34px system-ui,sans-serif;letter-spacing:3px;fill:#ffe7a0}
+ .sub{font:700 13px system-ui,sans-serif;letter-spacing:4px;fill:#f7c65b}
+ .label{font:700 17px system-ui,sans-serif;fill:#fff0c1}
+ .num{font:900 28px system-ui,sans-serif;fill:#ffce59}
+ .card{fill:url(#wood);stroke:#d9a844;stroke-width:2}
+ .shine{animation:shine 3.5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+ .float{animation:float 4s ease-in-out infinite}
+ .twinkle{animation:twinkle 2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+ @keyframes shine{0%,100%{opacity:.35}50%{opacity:1}}
+ @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+ @keyframes twinkle{0%,100%{opacity:.2;transform:scale(.7)}50%{opacity:1;transform:scale(1.2)}}
+ @media (prefers-reduced-motion:reduce){.shine,.float,.twinkle{animation:none}}
+ </style>
+</defs>
+<rect width="1200" height="510" rx="22" fill="url(#sea)" stroke="#dba63e" stroke-width="5"/>
+<rect x="9" y="9" width="1182" height="492" rx="17" fill="url(#grain)" stroke="#7a4b20" stroke-width="2"/>
+<!-- nautical decorations -->
+<g fill="#ffce59" opacity=".8"><circle class="twinkle" cx="55" cy="50" r="3"/><circle class="twinkle" cx="1145" cy="68" r="3"/><circle class="twinkle" cx="1100" cy="455" r="2.5"/><circle class="twinkle" cx="85" cy="440" r="2.5"/></g>
+<g class="float" transform="translate(45 26)"><path d="M0 0L42 10L0 20Z" fill="#c92b36"/><path d="M0 0V34" stroke="#e6b44b" stroke-width="3"/><circle cx="19" cy="10" r="5" fill="#ffe7a0"/></g>
+<g class="float" transform="translate(1115 24)"><path d="M0 0L42 10L0 20Z" fill="#c92b36"/><path d="M0 0V34" stroke="#e6b44b" stroke-width="3"/><circle cx="19" cy="10" r="5" fill="#ffe7a0"/></g>
+<!-- title plaque -->
+<rect x="160" y="28" width="880" height="94" rx="14" fill="#20130e" stroke="#f0c45c" stroke-width="3"/>
+<rect x="169" y="37" width="862" height="76" rx="10" fill="url(#wood)" stroke="#8d5b28"/>
+<text x="600" y="73" text-anchor="middle" class="head">✦ TREASURE COLLECTED ✦</text>
+<text x="600" y="100" text-anchor="middle" class="sub">GITHUB STATS • CREW ACHIEVEMENTS</text>
+<!-- cards -->
+<g class="float"><rect class="card" x="35" y="150" width="266" height="125" rx="12"/><text x="168" y="190" text-anchor="middle" font-size="31">⭐</text><text x="168" y="220" text-anchor="middle" class="label">STARS</text><text x="168" y="251" text-anchor="middle" class="num">Keep shining</text></g>
+<g class="float" style="animation-delay:.2s"><rect class="card" x="317" y="150" width="266" height="125" rx="12"/><text x="450" y="190" text-anchor="middle" font-size="31">🔥</text><text x="450" y="220" text-anchor="middle" class="label">COMMITS</text><text x="450" y="251" text-anchor="middle" class="num">Daily progress</text></g>
+<g class="float" style="animation-delay:.4s"><rect class="card" x="599" y="150" width="266" height="125" rx="12"/><text x="732" y="190" text-anchor="middle" font-size="31">🧭</text><text x="732" y="220" text-anchor="middle" class="label">EXPLORATION</text><text x="732" y="251" text-anchor="middle" class="num">New horizons</text></g>
+<g class="float" style="animation-delay:.6s"><rect class="card" x="881" y="150" width="284" height="125" rx="12"/><text x="1023" y="190" text-anchor="middle" font-size="31">🏴‍☠️</text><text x="1023" y="220" text-anchor="middle" class="label">THE GRAND LINE</text><text x="1023" y="251" text-anchor="middle" class="num">Keep building</text></g>
+<!-- lower quest board -->
+<rect x="35" y="296" width="1130" height="139" rx="14" fill="#17100c" stroke="#dba63e" stroke-width="3"/>
+<rect x="44" y="305" width="1112" height="121" rx="10" fill="#3a1c12" stroke="#8c5623"/>
+<text x="600" y="340" text-anchor="middle" class="sub">CURRENT QUEST</text>
+<text x="600" y="374" text-anchor="middle" style="font:800 22px system-ui,sans-serif;fill:#fff0c1">LEARN  •  BUILD  •  IMPROVE  •  EXPLORE</text>
+<text x="600" y="403" text-anchor="middle" style="font:italic 16px system-ui,sans-serif;fill:#ffce59">“Every commit is a step closer to my One Piece.”</text>
+<!-- animated coins -->
+<g filter="url(#glow)"><g class="shine"><circle cx="85" cy="470" r="12" fill="url(#gold)" stroke="#ffe7a0" stroke-width="2"/><path d="M79 470h12m-6-6v12" stroke="#8b5417" stroke-width="2"/></g><g class="shine" style="animation-delay:.7s"><circle cx="1115" cy="466" r="12" fill="url(#gold)" stroke="#ffe7a0" stroke-width="2"/><path d="M1109 466h12m-6-6v12" stroke="#8b5417" stroke-width="2"/></g><g class="shine" style="animation-delay:1.3s"><circle cx="600" cy="466" r="8" fill="url(#gold)" stroke="#ffe7a0" stroke-width="2"/></g></g>
+<text x="600" y="483" text-anchor="middle" style="font:700 10px system-ui,sans-serif;letter-spacing:3px;fill:#d9a844">NOVINKUMAR • PIRATE DEVELOPER CREW</text>
+</svg>
