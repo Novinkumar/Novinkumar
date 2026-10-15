@@ -71,13 +71,15 @@ I'm a developer focused on building clean, functional web applications. I enjoy 
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Novinkumar&border_radius=15&hide_border=true&background=0D1117&ring=D7263D&fire=FFD60A&currStreakLabel=FFD60A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="60%" alt="GitHub contribution streak"/>
 <br/>
-<img src="https://activity-graph.herokuapp.com/graph?username=Novinkumar&theme=react-dark" width="95%"/>
+<img src="./assets/activity-log.svg"
+     width="100%"
+     alt="Animated Grand Line activity log"/>
 </div>
 
 ## 🏆 Treasure Collected (Trophies)
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Novinkumar&theme=onedark&no-frame=true&row=1&column=7" width="100%" alt="GitHub profile trophies"/>
+<img src="./assets/crew-treasures.svg" width="100%" alt="Animated pirate treasure board"/>
 
 ## 🐍 The Legendary Sea Snake (Contribution Snake)
 
