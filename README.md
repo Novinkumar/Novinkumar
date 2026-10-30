@@ -2,8 +2,8 @@
 <div align="center">
 
   <!-- ONE PIECE HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D7263D,100:FFD60A&height=250&section=header&text=Yo!%20I'm%20Novin%20Kumar&fontSize=45&fontColor=0D1117&animation=fadeIn&fontAlignY=35&desc=Set%20Sail%20for%20the%20Grand%20Line%20of%20Code&descAlignY=55&descAlign=50"
-       width="100%" alt="One Piece themed Novin Kumar banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:00B4D8,100:023E8A&height=250&section=header&text=Yo!%20I'm%20Novin%20Kumar&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Set%20Sail%20for%20the%20Grand%20Line%20of%20Code&descAlignY=55&descAlign=50"
+     width="100%" alt="One Piece themed Novin Kumar banner"/>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=FFD60A&center=true&vCenter=true&width=650&height=60&lines=I'm+Gonna+Be+King+of+the+Devs!+%E2%9A%93;One+Piece+Otaku;Developer;Chasing+Dreams+like+Luffy"
        alt="Animated developer introduction"/>
@@ -261,8 +261,8 @@ I'm a developer focused on building clean, functional web applications. I enjoy 
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD60A,100:D7263D&height=120&section=footer"
-       width="100%" alt="One Piece themed footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:023E8A,50:0077B6,100:00B4D8&height=120&section=footer"
+     width="100%" alt="One Piece ocean blue footer"/>
 
   <b>Thanks for sailing through my profile!</b>
 
